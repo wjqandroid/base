@@ -6,6 +6,7 @@ apply plugin: "kotlin-android"
 apply plugin: 'org.greenrobot.greendao'
 apply plugin: 'com.github.dcendents.android-maven'
 
+group = 'com.github.base'
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.0"
